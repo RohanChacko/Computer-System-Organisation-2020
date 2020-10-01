@@ -1,5 +1,17 @@
 # Computer Systems Organisation
-## Spring 2020
+## Spring 2020 
+
+### Teaching Assistants
+* AadilMehdi Sanchawala
+* Arnav Kapoor
+* Kripa Anne
+* Mehul Gupta
+* Omkar Gurjar
+* Rohan Chacko
+* Srikar Mannepalli
+* Anish Gulati
+* Atheti Nikhilendra
+* Prateek Alat
 
 ## Tutorials
 * [Tutorial 1](https://github.com/aadilmehdis/Computer-System-Organisation-2020/tree/master/Tutorial1) [17/01/2020] - Introduction to ISA, x86 ISA
